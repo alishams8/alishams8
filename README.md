@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on couple of tools to steamline Data/AI integrations 
+  
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=alishams8&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alishams8&layout=compact&theme=radical)
