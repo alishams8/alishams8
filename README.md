@@ -8,3 +8,5 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=alishams8&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alishams8&layout=compact&theme=radical)
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=alishams8&show_icons=true)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alishams8&repo=yourrepo)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alishams8)
