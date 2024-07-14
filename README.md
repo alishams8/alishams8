@@ -15,7 +15,7 @@ In general, I enjoy many aspects of programming languages, constantly learning n
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=alishams8&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/Sakil786/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alishams8&hide_progress=False" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alishams8&hide_progress=False&theme=radical" />
 </a>
 
 ------------
