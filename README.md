@@ -11,4 +11,3 @@ In general, I enjoy many aspects of programming languages, constantly learning n
 - 📫 How to reach me: ali.shamsaddinlou@gmail.com
   
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alishams8&theme=radical)
