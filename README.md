@@ -8,7 +8,6 @@ In general, I enjoy many aspects of programming languages, constantly learning n
 - 🔭 I’m currently working on couple of tools to steamline Data/AI integrations
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I used to play basketball and was the captain of my high school team. I also love hiking and have climbed several notable peaks.
-- 📫 How to reach me: ali.shamsaddinlou@gmail.com
 - 📫 Linkedin:www.linkedin.com/in/alishamsaddinlou
 
 
