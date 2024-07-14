@@ -11,5 +11,5 @@ In general, I enjoy many aspects of programming languages, constantly learning n
 - ⚡ Fun fact: I used to play basketball and was the captain of my high school team. I also love hiking and have climbed several notable peaks.
   
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=alishams8&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnDoe&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alishams8&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alishams8&theme=radical)
