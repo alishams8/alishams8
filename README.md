@@ -7,8 +7,8 @@ In general, I enjoy many aspects of programming languages, constantly learning n
 - 💬 Feel free to ask me anything about the above-mentioned areas.
 - 🔭 I’m currently working on couple of tools to steamline Data/AI integrations
 - 😄 Pronouns: he/him
-- 📫 How to reach me: ali.shamsaddinlou@gmail.com
 - ⚡ Fun fact: I used to play basketball and was the captain of my high school team. I also love hiking and have climbed several notable peaks.
+- 📫 How to reach me: ali.shamsaddinlou@gmail.com
   
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=alishams8&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alishams8&layout=compact&theme=radical)
