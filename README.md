@@ -9,14 +9,14 @@ In general, I enjoy many aspects of programming languages, constantly learning n
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I used to play basketball and was the captain of my high school team. I also love hiking and have climbed several notable peaks.
 - 📫 How to reach me: ali.shamsaddinlou@gmail.com
+- 📫 Linkedin:www.linkedin.com/in/alishamsaddinlou
 
-[![LinkedIn](linkedin1.JPG)](https://www.linkedin.com/in/sakilansari/) 
 
 <a href="https://github.com/alishams8/github-readme-stats">
-  <img  width=500 height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=alishams8&show_icons=true&theme=radical" />
+  <img  width=400 height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=alishams8&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/alishams8/github-readme-stats">
-  <img  width=500 height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alishams8&hide_progress=False&theme=radical" />
+  <img  width=400 height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alishams8&hide_progress=False&theme=radical" />
 </a>
 
 ------------
