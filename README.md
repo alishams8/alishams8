@@ -9,11 +9,11 @@ In general, I enjoy many aspects of programming languages, constantly learning n
 - ⚡ Fun fact: I used to play basketball and was the captain of my high school team. I also love hiking and have climbed several notable peaks.
 - 📫 Linkedin:www.linkedin.com/in/alishamsaddinlou
 
-
+<!--
 <a href="https://github.com/alishams8/github-readme-stats">
   <img  width=400 height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=alishams8&show_icons=true&theme=radical" />
 </a>
-
+-->
   <a href="https://github.com/alishams8/github-readme-stats">
     <img  width=400 height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alishams8&hide_progress=False&theme=radical" />
   </a>
