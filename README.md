@@ -14,10 +14,11 @@ In general, I enjoy many aspects of programming languages, constantly learning n
   <img  width=400 height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=alishams8&show_icons=true&theme=radical" />
 </a>
 -->
-  <a align="center" href="https://github.com/alishams8/github-readme-stats">
+<div align="center">
+  <a  href="https://github.com/alishams8/github-readme-stats">
     <img  width=400 height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alishams8&hide_progress=False&theme=radical" />
   </a>
-
+</div>
 
 ------------
   <div align="center">
